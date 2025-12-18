@@ -246,7 +246,7 @@ if ($_SESSION['isLogin'] != true or $_SESSION['level'] != "admin") {
                 src="../assets/img/user2-160x160.jpg"
                 class="user-image rounded-circle shadow"
                 alt="User Image" />
-              <span class="d-none d-md-inline">Alexander Pierce</span>
+              <span class="d-none d-md-inline">INDRI ANJANI</span>
             </a>
             <ul class="dropdown-menu dropdown-menu-lg dropdown-menu-end">
               <!--begin::User Image-->
